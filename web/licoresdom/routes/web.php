@@ -18,6 +18,7 @@ Route::view("/conectar","conectar")->name("conectar");
 Route::view("/productos","productos")->name("productos");
 Route::view("/promociones","promociones")->name("promociones");
 Route::view("/carrito","carrito")->name("carrito");
+Route::view("/proveedores","proveedores")->name("proveedores");
 
 
 
