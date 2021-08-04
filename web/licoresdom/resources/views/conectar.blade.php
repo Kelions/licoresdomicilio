@@ -16,7 +16,7 @@
                         </div>
                     </div>
                     <div class="mb-3">
-                        <label for="nombre-txt" class="form-label">Clave</label>
+                        <label for="password-txt" class="form-label">Clave</label>
                         <div>
                             <input type="password" id="password" class="form-control">
     
@@ -24,6 +24,13 @@
                     </div>
                 </div>
             </div>
+            
+            <div class="mt-3 mb-2 ">
+                {{-- Debemos hacer que el boton redireccione a admin_home --}}
+                <button type="button" class="btn btn-warning border-danger" id="btn_conectar">Conectar</button>
+            </div>
+
+            
             <div class="container-fluid mt-5 text-center">
                 <img src="{{asset('img/curao1.jpeg')}}" alt="...">
 

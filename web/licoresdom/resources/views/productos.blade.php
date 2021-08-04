@@ -2,7 +2,8 @@
 @section('body')
 
 <div class="row mt-5">
-    <div class="col-12 col-md-12 col-lg-6 mx-auto">
+    <div class="text-center text-warning"><h3>Productos</h3></div>
+    <div class="col-12 col-md-12 col-lg-6 mx-auto mt-5">
         <table class="table table-dark table bordered table-striped table-responsive ">
              <thead class="thead-dark">
                 <tr>
