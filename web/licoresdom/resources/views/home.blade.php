@@ -10,7 +10,7 @@
     <h4>La empresa trabaja las 24 horas de lunes a sabado</h4>
     <h1>   </h1>
 
-        <img src="{{asset('img/curao.jpg')}}" alt="..." class="mt-5">
+        <img src="{{asset('img/curao.jpg')}}" alt="..." class="mt-5 img-fluid">
 
 </div>
 @endsection

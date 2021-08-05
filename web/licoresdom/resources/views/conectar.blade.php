@@ -25,14 +25,14 @@
                 </div>
             </div>
             
-            <div class="mt-3 mb-2 ">
+            <div class="mt-3 mb-2 text-center ">
                 {{-- Debemos hacer que el boton redireccione a admin_home --}}
                 <button type="button" class="btn btn-warning border-danger" id="btn_conectar">Conectar</button>
             </div>
 
             
             <div class="container-fluid mt-5 text-center">
-                <img src="{{asset('img/curao1.jpeg')}}" alt="...">
+                <img src="{{asset('img/curao1.jpeg')}}" alt="..." class="img-fluid">
 
             </div>
         </div>

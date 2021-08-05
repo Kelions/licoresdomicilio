@@ -4,7 +4,7 @@
 <div class="container-fluid mt-5 text-center">
     <h3 class="text-center text-warning">Nuestros Proveedores</h3>
 
-    <img class="img-responsive text-centrer mt-3" src="{{asset('img/proveedor.jpg')}}" alt="...">
+    <img class="img-fluid text-centrer mt-3" src="{{asset('img/proveedor.jpg')}}" alt="...">
 </div>
 
 <div>
@@ -14,7 +14,6 @@
                  <thead class="thead-dark">
                     <tr>
                         <td>Rut</td>
-                        <td>Nombre</td>
                         <td>Empresa</td>
                         <td>Producto</td>
     
