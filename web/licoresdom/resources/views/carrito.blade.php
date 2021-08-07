@@ -4,7 +4,7 @@
 
   <div class="mt-5 text-center">
       <h3 class="text-center text-warning" >Si Usted Maneja No conduzca</h3>
-      <img src="{{asset('img/curao2.jpg')}}" class="img-fluid"alt="..." width="300">
+      
   </div>
 
   <table class="table table-striped table-dark table-responsive mt-5">

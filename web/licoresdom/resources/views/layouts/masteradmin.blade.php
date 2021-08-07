@@ -8,9 +8,6 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <!-- Specter-->
-    <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
-    <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css">
-    <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-icons.min.css">
     <title>LicoresDom</title>
   </head>
   <body>
@@ -28,7 +25,6 @@
                 <a class="nav-link" href="{{route('admin_proveedores')}}">Ingreso Proveedores</a>
                 <a class="nav-link" href="{{route('admin_usuarios')}}">Usuarios</a>
                 <a class="nav-link" href="{{route('admin_ventas')}}">Ventas</a>
-
 
 
               </div>
