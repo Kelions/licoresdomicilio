@@ -29,7 +29,8 @@
                 {{-- Debemos hacer que el boton redireccione a admin_home --}}
                 <button type="button" class="btn btn-warning border-danger" id="btn_conectar">Conectar</button>
             </div>
-
+            
+            <img src="{{asset('img/barman.jpg')}}" alt="" class="img-fluid bordered-pill">
         </div>
     </div>
 
