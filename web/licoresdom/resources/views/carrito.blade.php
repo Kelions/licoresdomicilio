@@ -26,7 +26,7 @@
     <button type="button" class="btn btn-warning border-danger mt-5" id="btn_compra">Comprar</button>
 </div>
 
-    
+  
 </div>
 
 
