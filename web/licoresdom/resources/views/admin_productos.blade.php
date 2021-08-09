@@ -11,7 +11,7 @@
             <div class="card-body border-warning">
                 <div class="mb-3">
                     <label for="tipo_producto-txt" class="form-label">Tipo de producto</label>
-                    <select class="form-select form-select-sm" id="tipo_bebida">
+                    <select class="form-select form-select-sm" id="tipo_producto">
                         <option selected value="1">Pisco</option>
                         <option value="2"> Whisky</option>
                         <option value="3"> Cerveza</option>
@@ -63,4 +63,8 @@
 </div>
 
 
+@endsection
+
+@section("javascript")
+    <script src="{{asset('js/admin_productos.js')}}"></script>
 @endsection

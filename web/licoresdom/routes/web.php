@@ -27,4 +27,4 @@ Route::view("/admin_home","admin_home")->name("admin_home");
 Route::view("/admin_productos","admin_productos")->name("admin_productos");
 Route::view("/admin_usuarios","admin_usuarios")->name("admin_usuarios");
 Route::view("/admin_proveedores","admin_proveedores")->name("admin_proveedores");
-
+Route::view("/admin_ventas","admin_ventas")->name("admin_ventas");
