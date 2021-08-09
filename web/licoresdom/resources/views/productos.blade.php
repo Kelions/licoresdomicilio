@@ -77,3 +77,7 @@
 
 
 @endsection
+
+@section('jshome')
+    <script src="{{ asset('js/productos.js')}}"></script>
+@endsection
